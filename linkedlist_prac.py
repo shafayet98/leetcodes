@@ -12,7 +12,10 @@ cur = list_node1
 while (cur.next != None):
     cur = cur.next
 
-this is test
+-------------
+Time complexity
+1. To traverse the entire list = O(n)
+
 '''
 
 # make a linked list
