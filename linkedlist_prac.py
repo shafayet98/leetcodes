@@ -14,3 +14,5 @@ while (cur.next != None):
 
 this is test
 '''
+
+# make a linked list
