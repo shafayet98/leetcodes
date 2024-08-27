@@ -11,4 +11,6 @@ traverse linked list
 cur = list_node1
 while (cur.next != None):
     cur = cur.next
+
+this is test
 '''
